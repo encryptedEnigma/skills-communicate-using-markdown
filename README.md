@@ -1,5 +1,9 @@
 <header>
 
+# Created a header for refernce
+## Another one to compare
+## One more to understand the difference
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
